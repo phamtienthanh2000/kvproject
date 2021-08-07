@@ -1,6 +1,14 @@
 eclipse.preferences.version=1
+encoding//src/main/java/controller/ProductDAO.java=UTF-8
+encoding//src/main/java/view/BillManagement/ConfirmFrm.java=UTF-8
+encoding//src/main/java/view/BillManagement/CreateBillFrm.java=UTF-8
+encoding//src/main/java/view/BillManagement/CreateClientFrm.java=UTF-8
+encoding//src/main/java/view/BillManagement/SearchClientFrm.java=UTF-8
 encoding//src/main/java/view/ClientManagement/ClientManagementFrm.java=UTF-8
 encoding//src/main/java/view/ClientManagement/CreateClientFrm.java=UTF-8
 encoding//src/main/java/view/ClientManagement/EditClientFrm.java=UTF-8
 encoding//src/main/java/view/ClientManagement/SearchClientFrm.java=UTF-8
 encoding//src/main/java/view/LoginView.java=UTF-8
+encoding//src/main/java/view/ProductManagement/AddProductFrm.java=UTF-8
+encoding//src/main/java/view/ProductManagement/EditProductFrm.java=UTF-8
+encoding//src/main/java/view/ProductManagement/ProductManagementFrm.java=UTF-8

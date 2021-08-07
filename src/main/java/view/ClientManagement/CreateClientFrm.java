@@ -56,6 +56,57 @@ public class CreateClientFrm extends JFrame implements ActionListener{
 		
 		btnAdd.addActionListener(this);
 	}
+	
+	
+	
+	public JTextField getTxtName() {
+		return txtName;
+	}
+
+
+
+	public void setTxtName(JTextField txtName) {
+		this.txtName = txtName;
+	}
+
+
+
+	public JTextField getTxtPhoneNumber() {
+		return txtPhoneNumber;
+	}
+
+
+
+	public void setTxtPhoneNumber(JTextField txtPhoneNumber) {
+		this.txtPhoneNumber = txtPhoneNumber;
+	}
+
+
+
+	public JTextField getTxtAddress() {
+		return txtAddress;
+	}
+
+
+
+	public void setTxtAddress(JTextField txtAddress) {
+		this.txtAddress = txtAddress;
+	}
+
+
+
+	public User getUser() {
+		return user;
+	}
+
+
+
+	public void setUser(User user) {
+		this.user = user;
+	}
+
+
+
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		// TODO Auto-generated method stub

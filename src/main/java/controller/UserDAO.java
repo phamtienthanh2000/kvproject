@@ -19,6 +19,7 @@ public class UserDAO extends DAO {
 			ResultSet rs = ps.executeQuery();
 			if(rs.next()) {
 				user.setFullName(rs.getString("fullName"));
+				user.setId(rs.getInt("id"));
 				return true;
 			}
 			return false;
